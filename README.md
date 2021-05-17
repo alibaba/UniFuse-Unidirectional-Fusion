@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 #### Datasets 
 
-Please download the preferred datasets,  i.e., [Matterport3D](https://niessner.github.io/Matterport/), [Stanford2D3D](http://3dsemantics.stanford.edu/), [3D60](https://vcl3d.github.io/3D60/) and [PanoSUNCG](https://fuenwang.ml/project/360-depth/). For Matterport3D, please preprocess it following [M3D-README.md](UniFuse/Matterport3D/README.md).
+Please download the preferred datasets,  i.e., [Matterport3D](https://niessner.github.io/Matterport/), [Stanford2D3D](http://3dsemantics.stanford.edu/), [3D60](https://vcl3d.github.io/3D60/) and [PanoSUNCG](https://fuenwang.ml/project/360-depth/). For Matterport3D, please preprocess it following [M3D-README.md](Matterport3d/README.md).
 
 
 
@@ -67,7 +67,7 @@ It is similar for other datasets.
 
 #### Pre-trained models
 
-The pre-trained models of UniFuse for 4 datasets are available, [Matterport3D](PretrainedModels/Matterport3D_UniFuse_cee_se_b), [Stanford2D3D](PretrainedModels/Stanford2D3D_UniFuse_cee_se_b), [3D60](PretrainedModels/3D60_UniFuse_cee_se) and [PanoSUNCG](PretrainedModels/PanoSunCG_UniFuse_cee_se).
+The pre-trained models of UniFuse for 4 datasets are available, [Matterport3D](https://drive.google.com/drive/folders/1Dx7QR4ypujgLbyOo1zu4vIYXbqf95ToE?usp=sharing), [Stanford2D3D](https://drive.google.com/drive/folders/1q3LP9tyWi18yJwmhdjVn7dGUOsU3AH9G?usp=sharing), [3D60](https://drive.google.com/drive/folders/1B79FX_LoJ6GrcqyP1PIh2jqsiYs30V6P?usp=sharing) and [PanoSUNCG](https://drive.google.com/drive/folders/1trwQ7orixAjxWVK8rFLAtaaAqIjRB6va?usp=sharing).
 
 #### Test on a pre-trained model
 
