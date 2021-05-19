@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 #### Datasets 
 
-Please download the preferred datasets,  i.e., [Matterport3D](https://niessner.github.io/Matterport/), [Stanford2D3D](http://3dsemantics.stanford.edu/), [3D60](https://vcl3d.github.io/3D60/) and [PanoSUNCG](https://fuenwang.ml/project/360-depth/). For Matterport3D, please preprocess it following [M3D-README.md](Matterport3d/README.md).
+Please download the preferred datasets,  i.e., [Matterport3D](https://niessner.github.io/Matterport/), [Stanford2D3D](http://3dsemantics.stanford.edu/), [3D60](https://vcl3d.github.io/3D60/) and [PanoSUNCG](https://fuenwang.ml/project/360-depth/). For Matterport3D, please preprocess it following [M3D-README.md](UniFuse/Matterport3D/README.md).
 
 
 
